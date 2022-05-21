@@ -1,0 +1,7 @@
+arc/npc/n10he00.arcarc/gimmick/g90he00.arc
+arc/gimmick/g90he00.arc
+arc/boss/b01jb00.arc
+arc/boss/b01jb00d.arc
+arc/boss/b99he00.arc
+lua/b99he00.lub
+arc/boss/b99he00d.arc
