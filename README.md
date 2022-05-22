@@ -3,6 +3,9 @@ Randomizer for the PC version of Birth by Sleep.
 
 **IT IS RECOMMENDED TO BACK UP YOUR BBS FILES BEFORE APPLYING PATCHES AS SOMETIMES CANCELING A RANDO PATCH CAN DELETE YOUR BBS PACKAGES.**
 
+## About Chest Randomization
+To avoid possible softlocks, all big chests are excluded from the chest randomization.
+
 ## Allow Weak Bosses As Enemies
 This is the list of bosses it enables:
 - Cursed Carriage
