@@ -32,7 +32,7 @@ This is the list of bosses it enables:
 - Vanitas (Final Battle)
 - Vanitas (Unmasked)
 - Vanitas Lingering Spirit
-- Venuts=Vanitas
+- Ventus=Vanitas
 - Eraqus
 - Braig (Scarred)
 - Terra-Xehanort
@@ -47,10 +47,5 @@ This is the list of bosses it enables:
 - Iron Imprisoner II
 - Iron Imprisoner III
 - Iron Imprisoner IV
-- Cursed Carriage (VS)
-- Wheel Master (VS)
-- Zack (Dark version) (VS)
-- Hades (VS)
 - Armor of Eraqus
 - No Heart
-- Ice Titan (VS)
