@@ -30,6 +30,7 @@ This is the list of bosses it enables:
 - Vanitas (Final Battle)
 - Vanitas (Unmasked)
 - Vanitas Lingering Spirit
+- Venuts=Vanitas
 - Eraqus
 - Braig (Scarred)
 - Terra-Xehanort
