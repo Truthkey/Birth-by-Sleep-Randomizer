@@ -3,9 +3,6 @@ Randomizer for the PC version of Birth by Sleep.
 
 ## Allow Weak Bosses As Enemies
 This is the list of bosses it enables:
-- Trumpet
-- Violin
-- Drum
 - Cursed Carriage
 - Hades
 - Zack (Helmet)
