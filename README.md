@@ -13,7 +13,6 @@ This is the list of bosses it enables:
 - Zack (Helmet)
 - Vanitas 1
 - Vanitas (Low AI)
-- Braig
 - Master Xehanort
 - Sparky
 - Captain Hook
@@ -34,6 +33,7 @@ This is the list of bosses it enables:
 - Vanitas Lingering Spirit
 - Ventus=Vanitas
 - Eraqus
+- Braig
 - Braig (Scarred)
 - Terra-Xehanort
 - Terra-Xehanort 2
