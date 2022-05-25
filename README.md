@@ -3,6 +3,23 @@ Randomizer for the PC version of Birth by Sleep.
 
 **IT IS RECOMMENDED TO BACK UP YOUR BBS FILES BEFORE APPLYING PATCHES AS SOMETIMES CANCELING A RANDO PATCH CAN DELETE YOUR BBS PACKAGES.**
 
+# Usage
+
+1. Copy the following files to the same directory as this program:
+-bbs_first.hed
+-bbs_first.pkg
+-bbs_third.hed
+-bbs_third.pkg
+
+2. Choose the randomizer options you wish to apply.
+
+3. Click "Randomize!"
+
+4. Wait for each command line box to finish, saying "D
+one" and press Enter.
+
+HED and PKG files are usually in this path: **C:\Program Files\Epic Games\KH_1.5_2.5\Image\en**
+
 ## About Chest Randomization
 To avoid possible softlocks, all big chests are excluded from the chest randomization.
 
