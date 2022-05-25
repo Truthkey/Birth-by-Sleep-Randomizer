@@ -29,7 +29,6 @@ This is the list of bosses it enables:
 - Hades
 - Zack (Helmet)
 - Vanitas 1
-- Vanitas (Low AI)
 - Master Xehanort
 - Sparky
 - Captain Hook
@@ -45,6 +44,7 @@ This is the list of bosses it enables:
 - Zack (Helmetless)
 - Mysterious Figure
 - Red Eyes
+- Vanitas 2
 - Vanitas (Final Battle)
 - Vanitas (Unmasked)
 - Vanitas Lingering Spirit
