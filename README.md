@@ -29,7 +29,6 @@ This is the list of bosses it enables:
 - Hades
 - Zack (Helmet)
 - Vanitas 1
-- Master Xehanort
 - Sparky
 - Captain Hook
 - Peter Pan
@@ -48,6 +47,7 @@ This is the list of bosses it enables:
 - Vanitas (Final Battle)
 - Vanitas (Unmasked)
 - Vanitas Lingering Spirit
+- Master Xehanort
 - Ventus=Vanitas
 - Eraqus
 - Braig
