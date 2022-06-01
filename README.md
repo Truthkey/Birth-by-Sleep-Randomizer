@@ -39,7 +39,6 @@ This is the list of bosses it enables:
 ## Allow Strong Bosses As Enemies
 This is the list of bosses it enables:
 - Symphony Master
-- Ice Titan
 - Zack (Helmetless)
 - Mysterious Figure
 - Red Eyes
@@ -48,7 +47,6 @@ This is the list of bosses it enables:
 - Vanitas (Unmasked)
 - Vanitas Lingering Spirit
 - Master Xehanort
-- Ventus=Vanitas
 - Eraqus
 - Braig
 - Braig (Scarred)
