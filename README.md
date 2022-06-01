@@ -15,8 +15,7 @@ Randomizer for the PC version of Birth by Sleep.
 
 3. Click "Randomize!"
 
-4. Wait for each command line box to finish, saying "D
-one" and press Enter.
+4. Wait for each command line box to finish, saying "Done!" and then press Enter.
 
 HED and PKG files are usually in this path: **C:\Program Files\Epic Games\KH_1.5_2.5\Image\en**
 
