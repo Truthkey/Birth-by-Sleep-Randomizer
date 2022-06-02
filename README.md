@@ -47,7 +47,6 @@ This is the list of bosses it enables:
 - Vanitas Lingering Spirit
 - Master Xehanort
 - Eraqus
-- Braig
 - Braig (Scarred)
 - Terra-Xehanort
 - Terra-Xehanort 2
@@ -56,7 +55,6 @@ This is the list of bosses it enables:
 - Gantu
 - Maleficent Dragon
 - Mad Treant
-- Mimic Master
 - Iron Imprisoner I
 - Iron Imprisoner II
 - Iron Imprisoner III
