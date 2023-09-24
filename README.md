@@ -3,6 +3,8 @@ Randomizer for the PC version of Birth by Sleep.
 
 **IT IS RECOMMENDED TO BACK UP YOUR BBS FILES BEFORE APPLYING PATCHES AS SOMETIMES CANCELING A RANDO PATCH CAN DELETE YOUR BBS PACKAGES.**
 
+**MIXING THE RANDOMIZER WITH OTHER MODS MAY CAUSE UNINTENDED EFFECTS.**
+
 # Usage
 
 1. Copy the following files to the same directory as this program:
