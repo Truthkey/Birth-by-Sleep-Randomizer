@@ -29,9 +29,11 @@ HED and PKG files are usually in this path: **C:\Program Files\Epic Games\KH_1.5
 - Allow Strong Bosses As Enemies: Allows strong bosses (list below) to spawn instead of normal enemies when "Randomize Enemies" is turned on.
 - Randomize Shop Contents: The list of commands and items offered in the Moogle Shops is fully randomized. Duplicates can happen.
 - Randomize Chest Contents: The content of every chest is the game is randomized to any item or command obtainable by the character.
+- Early Recipes: All characters get basic recipes as you progress in the game. Terra gets a few more than the rest.
+
+** Due to an executable update, the following options will break the executable. Do not check them! **
 - Randomize Starting Commands: The first three commands you start the game with are randomized by any compatible command.
 - Randomize D-Link Abilities: The abilities attached to each D-Link are randomized. One D-Link can have the same ability twice.
-- Early Recipes: All characters get basic recipes as you progress in the game. Terra gets a few more than the rest.
 
 ## About Chest Randomization
 To avoid possible softlocks, all big chests are excluded from the chest randomization.
