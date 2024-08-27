@@ -8,16 +8,16 @@ Randomizer for the PC version of Birth by Sleep. **ONLY WORKS FOR THE CURRENT ST
 # Usage
 
 1. Copy the following files to the same directory as this program:
--bbs_first.hed
--bbs_first.pkg
--bbs_third.hed
--bbs_third.pkg
+- bbs_first.hed
+- bbs_first.pkg
+- bbs_third.hed
+- bbs_third.pkg
 
-2. Choose the randomizer options you wish to apply.
+3. Choose the randomizer options you wish to apply.
 
-3. Click "Randomize!"
+4. Click "Randomize!"
 
-4. Wait for each command line box to finish, saying "Done!" and then press Enter.
+5. Wait for each command line box to finish, saying "Done!" and then press Enter.
 
 HED and PKG files are usually in this path: **C:\Program Files (x86)\Steam\steamapps\common**
 
