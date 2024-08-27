@@ -1,5 +1,5 @@
 # Birth-by-Sleep-Randomizer
-Randomizer for the PC version of Birth by Sleep.
+Randomizer for the PC version of Birth by Sleep. **ONLY WORKS FOR THE CURRENT STEAM VERSION**
 
 **IT IS RECOMMENDED TO BACK UP YOUR BBS FILES BEFORE APPLYING PATCHES AS SOMETIMES CANCELING A RANDO PATCH CAN DELETE YOUR BBS PACKAGES.**
 
@@ -19,7 +19,7 @@ Randomizer for the PC version of Birth by Sleep.
 
 4. Wait for each command line box to finish, saying "Done!" and then press Enter.
 
-HED and PKG files are usually in this path: **C:\Program Files\Epic Games\KH_1.5_2.5\Image\en**
+HED and PKG files are usually in this path: **C:\Program Files (x86)\Steam\steamapps\common**
 
 ## Explanation of options
 
